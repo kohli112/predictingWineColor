@@ -1,13 +1,4 @@
----
-title: "Assignment 3"
-author: "Karan Kohli and Rishabh Karwayun"
-date: "28/03/2020"
-output: pdf_document
-sansfont: Calibri Light
-classoption: 10pt
----
-\fontsize{9}{15}
-\fontseries{b}
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
